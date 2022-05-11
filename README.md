@@ -5,13 +5,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=3000&center=true&vCenter=true&lines=Welcome+To+My+Github+Profile)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on Adam.ai **Adam.ai V4**
+- 🔭 I’m currently working on Adam.ai - **Adam.ai V4**, **Adam.ai Design System** -
 
-- 🌱 I’m currently learning **Vue.js, Node.js**
+- 🌱 I’m currently learning **Vue.js and Node.js**
 
 - 👯 I’m looking to collaborate on **Frontend Projects**
 
-- 💬 Ask me about **React.js, Next.js, Gatsby.js, React Native**
+- 💬 Ask me about **React.js, Next.js, Gatsby.js and React Native**
 
 - 📫 How to reach me **A7med19962014@gmail.com**
 
