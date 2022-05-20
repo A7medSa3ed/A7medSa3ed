@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **A7med19962014@gmail.com**
 
-- 📄 Know about my experiences [Get My Resume](https://drive.google.com/file/d/1WVj_fGHqYggzo2HQkhM-iLAF7k32n2nT/view?usp=sharing)
+- 📄 Know about my experiences [**Get My Resume**](https://drive.google.com/file/d/1WVj_fGHqYggzo2HQkhM-iLAF7k32n2nT/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,7 +24,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<p align="center">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"   rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
     </a>&nbsp;
@@ -114,6 +114,21 @@
     </a>&nbsp;
 </p>
 
+<h3 align="left">Projects</h3>
+<p>
+ <a href="https://www.adam.ai" target="_blank" rel="noreferrer">
+      <img src="https://adam.ai/favicon-32x32.png?v=2bf3891b77d34610215a85191144e806" alt="adam.ai" width="40" height="40" /> 
+ </a>&nbsp;
+    
+  <a href="https://www.aly.ma" target="_blank" rel="noreferrer">
+      <img src="https://aly.ma/logo.png" alt="aly.ma" width="40" height="40" /> 
+ </a>&nbsp;
+    
+  <a href="https://almoosahospital.org/" target="_blank" rel="noreferrer">
+      <img src="https://almoosahospital.org/favicon-32x32.png" alt="almoosa" width="40" height="40" /> 
+ </a>&nbsp;
+   <br/>
+ </p>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=a7medsa3ed&show_icons=true&locale=en&layout=compact" alt="a7medsa3ed" /></p>
 
 
