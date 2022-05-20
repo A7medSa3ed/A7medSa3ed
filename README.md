@@ -134,7 +134,7 @@
 <p align="center"><a href="https://graduation.udacity.com/confirm/QUCRCHPC" target="_blank" rel="noreferrer"><img src="./certificate.svg" alt="javascript" height="600" align="center"/></a></p>
  <p align="center"><a href="https://graduation.udacity.com/confirm/QUCRCHPC" target="_blank" rel="noreferrer">Online Certificate</a></p>
  <br/>
-= 
+
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=a7medsa3ed&show_icons=true&locale=en&layout=compact" alt="a7medsa3ed" /></p>
 
 
