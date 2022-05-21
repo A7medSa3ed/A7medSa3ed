@@ -131,7 +131,7 @@
  </p>
  
  <h3 align="left">Udacity Certification</h3>
-<p align="center"><a href="https://graduation.udacity.com/confirm/QUCRCHPC" target="_blank" rel="noreferrer"><img src="./certificate.svg" alt="javascript" height="600" align="center"/></a></p>
+<p align="center"><a href="https://graduation.udacity.com/confirm/QUCRCHPC" target="_blank" rel="noreferrer"><img src="./certificate.svg" alt="javascript"  align="center"/></a></p>
  <p align="center"><a href="https://graduation.udacity.com/confirm/QUCRCHPC" target="_blank" rel="noreferrer">Online Certificate</a></p>
  <br/>
 
