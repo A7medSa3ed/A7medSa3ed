@@ -127,6 +127,9 @@
   <a href="https://almoosahospital.org/" target="_blank" rel="noreferrer">
       <img src="https://almoosahospital.org/favicon-32x32.png" alt="almoosa" width="40" height="40" /> 
  </a>&nbsp;
+  <a href="https://tetco.sa/ar/default.aspx" target="_blank" rel="noreferrer">
+      <img src="https://tetco.sa/SiteAssets/TetcoLogo.png" alt="tetco" width="100" height="40" /> 
+ </a>&nbsp;
    <br/>
  </p>
  
