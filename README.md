@@ -5,7 +5,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=3000&center=true&vCenter=true&lines=Welcome+To+My+Github+Profile)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on Adam.ai - **Adam.ai V4**, **Adam.ai Design System** -
+- 🔭 I’m currently working on KIB - **KIB Corporate App**, **KIB Design System** 
 
 - 🌱 I’m currently learning **Vue.js and Node.js**
 
@@ -114,7 +114,7 @@
     </a>&nbsp;
 </p>
 
-<h3 align="left">Projects</h3>
+<h3 align="left">Companies</h3>
 <p>
  <a href="https://www.adam.ai" target="_blank" rel="noreferrer">
       <img src="https://adam.ai/favicon-32x32.png?v=2bf3891b77d34610215a85191144e806" alt="adam.ai" width="40" height="40" /> 
@@ -129,6 +129,9 @@
  </a>&nbsp;
   <a href="https://tetco.sa/ar/default.aspx" target="_blank" rel="noreferrer">
       <img src="https://tetco.sa/SiteAssets/TetcoLogo.png" alt="tetco" width="100" height="40" /> 
+ </a>&nbsp;
+  <a href="https://www.kib.com.kw/en/home/Personal/Bank/ways-to-Bank/KIB-Online.html" target="_blank" rel="noreferrer">
+      <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQEbmAsA0uuA_Q/company-logo_200_200/0/1637762337657?e=2147483647&v=beta&t=UGJyN4X6E1UGCUHyPiEc3BTlFQLpgNOOqj9Ua2_1mXg" alt="kib" width="50" height="50" /> 
  </a>&nbsp;
    <br/>
  </p>
